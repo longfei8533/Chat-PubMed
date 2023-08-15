@@ -1,5 +1,6 @@
 # Chat-PubMed
 
+![](https://github.com/longfei8533/Chat-PubMed/blob/main/image.png)
 ## Run
 
 1. Runs directly in the python environment
